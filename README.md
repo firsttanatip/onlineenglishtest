@@ -1,4 +1,6 @@
-# onlineenglishtest
-รหัสผ่านสำหรับ Admin
-username : Admin2
-password: 1234
+# Quiz App
+This is a simple quiz application created using the django framework.
+
+
+Visit:
+http://djangoquizsam.azurewebsites.net
